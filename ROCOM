@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Subiendo la aplicación"
+git branch -M main
+git remote add origin https://github.com/ROCOM15/control-horario.git
+git push -u origin main
